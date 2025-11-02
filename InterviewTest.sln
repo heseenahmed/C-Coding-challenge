@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36429.23 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterviewTest", "InterviewTest\InterviewTest.csproj", "{F527E75A-36D3-4BBD-9C4F-DB58E3C8A27E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Monitor", "Monitor\Monitor.csproj", "{72BD5095-5FD5-4EE0-B99D-07435A60E08B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F527E75A-36D3-4BBD-9C4F-DB58E3C8A27E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F527E75A-36D3-4BBD-9C4F-DB58E3C8A27E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F527E75A-36D3-4BBD-9C4F-DB58E3C8A27E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F527E75A-36D3-4BBD-9C4F-DB58E3C8A27E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72BD5095-5FD5-4EE0-B99D-07435A60E08B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72BD5095-5FD5-4EE0-B99D-07435A60E08B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72BD5095-5FD5-4EE0-B99D-07435A60E08B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72BD5095-5FD5-4EE0-B99D-07435A60E08B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CDFDCE5B-88C4-44DE-92B0-68CC014C975B}
+	EndGlobalSection
+EndGlobal
