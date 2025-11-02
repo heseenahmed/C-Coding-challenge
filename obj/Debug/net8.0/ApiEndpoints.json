@@ -1,0 +1,49 @@
+[
+  {
+    "ContainingType": "InterviewTest.Controllers.UsersController",
+    "Method": "CreateBulk",
+    "RelativePath": "api/Users/create-bulk-users",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "InterviewTest.Controllers.UsersController",
+    "Method": "CreateUser",
+    "RelativePath": "api/Users/create-user",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "InterviewTest.Entities.User",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "InterviewTest.Controllers.UsersController",
+    "Method": "Fetch",
+    "RelativePath": "api/Users/fetch-users",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "page",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "pageSize",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
